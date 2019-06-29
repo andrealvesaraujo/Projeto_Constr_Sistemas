@@ -1,0 +1,4 @@
+sca.siefolder=C:\\Dev\\Workspace\\pcs\\sca\\planilhas-test
+
+Em src/main/resource
+Banco--> senha:root

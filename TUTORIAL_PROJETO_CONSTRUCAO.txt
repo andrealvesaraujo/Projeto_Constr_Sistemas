@@ -1,0 +1,25 @@
+-------------------Local dos trabalhos---------------
+
+C:\Dev\Workspace
+
+-------------- Conteudo das aulas e o projeto---------- http://tiny.cc/depin-pcs
+
+-------------Depois de conseguir o Dev e .m2---------
+
+1)Configuração do Ambiente
+
+ - Inst. Java + Descompactar + JAVA_HOME + Path
+ - Inst. Maven + Descompactar + M2_HOME + Path
+ - Inst. Tomcat + Descompactar 
+ - Inst. Eclipse + Descompactar 
+ - Abrir eclipse--> Botar Tomcat no servers e alterar timeout do TomCat(180,60) e roda para ver se funciona.
+ - Importar do projeto
+
+OBS) Como exportar Projeto Maven
+	-- Archive File
+	-- Escolhe o que sera exportado(jsf-hello)
+	-- Tira tudo que começa com . --> Exemplo-->.settings
+	-- Tira o target
+	-- Ou seja so envia o pom e a pasta src  
+	-- Isso serve para não transportar lixo
+	-- fazer .zip
