@@ -1,0 +1,58 @@
+2019-05-11T15:54:34.599568Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 8068
+2019-05-11T15:54:34.599935Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-11T15:54:37.636989Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-11T15:54:37.648704Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-11T15:54:39.920143Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-11T15:54:40.245580Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-11T16:12:05.744482Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 13848
+2019-05-11T16:12:05.744715Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-11T16:12:08.342441Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-11T16:12:08.351918Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-11T16:12:09.978824Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-11T16:12:10.782048Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-17T21:42:14.420934Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 15656
+2019-05-17T21:42:14.518125Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-17T21:42:28.846858Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-17T21:42:28.850502Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-17T21:42:33.250923Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-17T21:42:36.532377Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-18T02:09:46.213689Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 5868
+2019-05-18T02:09:46.214014Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-18T02:09:48.913290Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-18T02:09:48.920040Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-18T02:09:50.491696Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-18T02:09:50.968490Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-18T02:15:11.202003Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 10392
+2019-05-18T02:15:11.202223Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-18T02:15:13.750132Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-18T02:15:13.755688Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-18T02:15:15.288594Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-18T02:15:15.461702Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-24T21:36:41.326607Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 13324
+2019-05-24T21:36:41.435719Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-24T21:37:04.277782Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-24T21:37:04.281377Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-24T21:37:06.877424Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-24T21:37:07.271953Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-24T23:29:30.746710Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 12400
+2019-05-24T23:29:30.746913Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-24T23:29:30.812534Z 1 [ERROR] [MY-012271] [InnoDB] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-05-24T23:29:30.814328Z 1 [ERROR] [MY-012278] [InnoDB] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-05-24T23:29:30.851138Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-05-24T23:29:30.856096Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-05-24T23:29:30.861226Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-05-24T23:29:30.896450Z 0 [System] [MY-010910] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.12)  MySQL Community Server - GPL.
+2019-05-24T23:31:23.532687Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 14068
+2019-05-24T23:31:23.532888Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-24T23:31:23.724203Z 1 [ERROR] [MY-012271] [InnoDB] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-05-24T23:31:23.726697Z 1 [ERROR] [MY-012278] [InnoDB] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-05-24T23:31:23.729186Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-05-24T23:31:23.731556Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-05-24T23:31:23.733147Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-05-24T23:31:23.736570Z 0 [System] [MY-010910] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.12)  MySQL Community Server - GPL.
+2019-05-24T23:38:46.097415Z 0 [System] [MY-010116] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe (mysqld 8.0.12) starting as process 11928
+2019-05-24T23:38:46.097627Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Dev\Projetos\sca\mysql\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2019-05-24T23:38:48.633067Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-05-24T23:38:48.642011Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-05-24T23:38:50.336709Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-24T23:38:50.762141Z 0 [System] [MY-010931] [Server] C:\Dev\Projetos\sca\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.

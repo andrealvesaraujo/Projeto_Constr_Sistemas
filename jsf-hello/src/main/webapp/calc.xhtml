@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+	<f:view contentType="text/html">
+		<h:head>						
+			<script src="js/geral.js"></script>	
+		</h:head>
+	
+		<h:body>
+			<p:growl id="messages" />	
+			<h:form id="form">					
+				<br/>
+				<p:inputNumber value="#{calcBean.op1}" size="6" required="true" 
+						requiredMessage="Op1 é um campo obrigatorio" />
+				<p:spacer width="5" />
+				<p:selectOneMenu value="#{calcBean.operador}"> 
+					<f:selectItem itemLabel="+" itemValue="sum"/>
+					<f:selectItem itemLabel="-" itemValue="sub"/>
+					<f:selectItem itemLabel="*" itemValue="mult"/>
+					<f:selectItem itemLabel="/" itemValue="div"/>
+				
+				</p:selectOneMenu>
+				<p:spacer width="5" />
+				
+				<p:inputNumber value="#{calcBean.op2}" size="6" required="true" 
+						requiredMessage="Op2 é um campo obrigatorio" />
+				<br/>
+				
+				<p:commandButton action="#{calcBean.calc()}" value="Calcular" update="form,messages" />
+				<br/>
+				Resultado: <p:outputLabel value="#{calcBean.resultado}"  />
+				
+				
+			</h:form>
+		</h:body>
+	</f:view>
+</html>
